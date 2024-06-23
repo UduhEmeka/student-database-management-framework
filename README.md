@@ -49,4 +49,4 @@ Kindly, check the [screenshots folder](https://github.com/AhMeDxHaMiDo/Student-d
   2. Run the command:
       * `pyinstaller --onefile --windowed frontend.py`
 
-* [**The Standalone App for that Project**](https://github.com/AhMeDxHaMiDo/Student-database-management-system/blob/master/frontend.exe)
+* [**The Standalone App for that Project**](https://github.com/UduhEmeka/student-database-management-framework/blob/main/frontend.exe)
