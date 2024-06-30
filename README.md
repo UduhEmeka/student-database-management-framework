@@ -1,6 +1,6 @@
-# Student-database-management-system
+# Student-database-management-framework
 
-A simple **GUI project** made with **tkinter** and **sqlite3** for **Students Database Management System**. 
+A simple **GUI project** made with **tkinter** and **sqlite3** for **Students Database Management Framework**. 
 
 ## Table of Content
 
@@ -25,7 +25,7 @@ In this project, you can do the following:
 6. Delete the database
 
 ## Screenshots
-Kindly, check the [screenshots folder](https://github.com/AhMeDxHaMiDo/Student-database-management-system/tree/master/screenshots) to get an overview about the software.
+Kindly, check the [screenshots folder](https://github.com/UduhEmeka/student-database-management-framework/tree/main/screenshots) to get an overview about the software.
 
 ## Instructions
 
